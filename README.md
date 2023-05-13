@@ -1,5 +1,5 @@
-# Webpack5.
+Домашнее задание к занятию "3. Обработка событий"
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
-![CI](https://github.com/codesurfer8/Game-goblin/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/f3omrllewquaptgw?svg=true)](https://ci.appveyor.com/project/Dafery/ahj-homeworks-events)
+
+[GH Pages](https://dafery.github.io/ahj-homeworks_events/)
